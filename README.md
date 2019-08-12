@@ -1,4 +1,4 @@
-## Boston_housing ##
+## Boston housing ##
 
 Boston housing price prediction
 
